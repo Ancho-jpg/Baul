@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['records']
+
+roboflow:
+  workspace: mcantarutti-gmail-com
+  project: dc-hs3jb
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/mcantarutti-gmail-com/dc-hs3jb/dataset/2
